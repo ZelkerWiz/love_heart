@@ -43,7 +43,7 @@
 
   <script>
     const messages = [
-      "ANH THÍCH EM 💖",
+      "ANH IUUU EM 💖",
       "Anh chúc em có một ngày thật vui vẻ và hạnh phúc nhaa 🌸",
       "Hi vọng em thích món quà này nhee haha 😆",
       "Em sẵn sàng chưa nèee...",
